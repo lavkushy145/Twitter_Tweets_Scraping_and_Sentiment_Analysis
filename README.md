@@ -1,5 +1,5 @@
-# AI-Amplify_Twitter_Tweets_Sentiment_Analysis
-## I have created this project in AI Amplify Hackathon which scraps the tweets and do sentiment analysis
+# Twitter_Tweets_Scraping_and_Sentiment_Analysis
+## I have created this project in which scraps the tweets and do sentiment analysis
 
 ## Technology Used:
 | Name       |  Used         | 
